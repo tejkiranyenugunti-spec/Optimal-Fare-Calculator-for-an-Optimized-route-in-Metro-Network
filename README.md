@@ -14,4 +14,11 @@ The aim of this project is to implement a fare calculator for a metro network in
 1.Processor: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz   1.80 GHz 
 2.RAM: 8GB 
 3.Architecture: x86 
+
+**To compile the code **
+gcc code.c -o code.exe
+
+**To run the code**
+./code.exe
+
   
